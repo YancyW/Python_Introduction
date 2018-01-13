@@ -1,9 +1,8 @@
 # Python_Introduction
 
-## Installation
-[1 Installation](./1_Installation.md)
+## [Installation](./1_Installation.md)
 
-## Basic Command
-[1 Basic_Command](./2_Basic_Command.md)
+## [Basic Command](./2_Basic_Command.md)
 
+## [Run_File](./3_Run_File.md)
 

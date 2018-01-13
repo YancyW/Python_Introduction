@@ -8,6 +8,7 @@ e.g.
 ```
 print(number)
 print("string")
+print(number,"string",number)
 ```
 
 exception:
