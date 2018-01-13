@@ -6,4 +6,6 @@
 
 ## [Number](./2_Basic_Command_3_Number.md)
 
-## [Variable] (./2_Basic_Command_4_Variable.md)
+## [Variable](./2_Basic_Command_4_Variable.md)
+
+## [Stop](./2_Basic_Command_5_Stop.md)
