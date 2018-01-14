@@ -26,4 +26,18 @@ Note: this range will let i from 1  to all integer <5, and step 2
 
 
 ## if
+```
+if a<b:
+	print("a<b",a)
+elif a>b:
+	print("a>b,b")
+else:
+	print("a=b,a,b")
+```
 
+
+python can recognize complicated condition command:
+```
+if a<b<c:
+	print("a<b<c",a)
+```
