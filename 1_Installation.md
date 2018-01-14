@@ -13,8 +13,8 @@ to run python.
 
 recommand to use python3.5
 
-## [Module](./1_Installatioon_1_Module.md)
+## [Module](./1_Installation_1_Module.md)
 
-## [Import_Module](./1_Installatioon_2_Import_Module.md)
+## [Import_Module](./1_Installation_2_Import_Module.md)
 
-## [Export_Module](./1_Installatioon_3_Export_Module.md)
+## [Export_Module](./1_Installation_3_Export_Module.md)
