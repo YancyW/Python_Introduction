@@ -1,9 +1,16 @@
-# tuple & list
+# tuple & list & dictionary
 a = tuple(1,2,5,4,3)
 a1= 1,2,5,4,3  
 b = list[-1,-5,-3,-6]
+b1 = [-1,-5,-3,-6]
+d = {1:'a','c':'b'}
 
-NOTE: the first element is 0,  a[0]==1, b[0]==-1
+# get element
+a[0],b[1], d[1], d['c']
+NOTE: 
+- the first element for tuple and list  is 0,  a[0]==1, b[0]==-1
+- dictionary DO NOT have sequence
+     
 
 ## function of tuple or list
 len(a), len(b) --- length of tuple or list
@@ -25,7 +32,13 @@ b.index(value) --- the first position for element == value
 b.count(value) --- how many times for element == value
 b.sort(option) --- defautlt from small to large, or "reverse=True" sort from large to small
 
+del d['c'] 
+d['b']='x'
+
 ## multi list
+a = [[1,2,3],
+	 [4,5,6],
+	 [7,8,9]]
 
 
 

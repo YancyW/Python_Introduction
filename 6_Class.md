@@ -16,7 +16,6 @@ class person:
 
 ## declare
 
-## use
 use a class
 ```
 Me = person()
