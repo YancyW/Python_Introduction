@@ -2,7 +2,7 @@
 ## define
 
 ```
-class person:
+class person():
 	_birth_d = 0
 	_birth_m = 0
 
@@ -28,7 +28,7 @@ Me._birth_d
 	For a class, don't need to define the member at the beginning, you can use the member in the init function
 
 	```
-class person:
+class person():
 	def __init__(self,day,month, year=1999):
 		self._birth_d = day
 		self._birth_m = month 

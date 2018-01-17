@@ -3,6 +3,7 @@
 	- option = 'w',  write 
 	- option = 'r',  read  
 	- option = 'a',  append
+	- option = encoding='utf-8',  changing string type
   
 - my_file.write("string")
 - my_file.close()

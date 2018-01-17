@@ -41,3 +41,22 @@ python can recognize complicated condition command:
 if a<b<c:
 	print("a<b<c",a)
 ```
+
+## format for/while/if/function/class and so on
+    !!! python is writing format sensitive language !!! 
+	use ":"
+	with 4 space / table
+	e.g.  (Notice: 4 spaces before print in line 2)
+	```
+	for i in range(1,10,2):
+		print("in the for loop ", i)
+	print("out of the for loop")
+	```
+
+
+## stop while/for 
+
+keywork: break   　----  get out of all the loop
+         continue  ----  stop this loop,  go to next loop
+
+

@@ -1,4 +1,7 @@
 # Python_Introduction
+Python is frequently used in Data analysis and Machine learning. 
+In this document, I will summarize some basic concept about Python 
+and some example about how to use python in data collecting and machine learning. 
 
 ## [Installation](./1_Installation.md)
 
@@ -11,3 +14,5 @@
 ## [Function](./5_Function.md)
 
 ## [Class](./6_Class.md)
+
+## [Error](./7_Error.md)
