@@ -45,3 +45,17 @@ if use default open, it will have wrong input.
 
 ## sqlite3
 deal with SQLite library
+
+## requests
+
+## pycuda
+package for cuda, which define some function for gpu cores.
+```
+import pycuda.autoinit
+import pycuda.gpuarray as gpuarray
+import pycuda.driver as cuda
+```
+Note: with nvidia bumblebee drive, one needs to use optirun command to compile python
+```
+optirun puthon python ***.py
+```

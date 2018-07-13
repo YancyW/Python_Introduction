@@ -1,4 +1,7 @@
 # Crawler
+
+## Crawler for douban
+
 example for a simple crawler
 ```
 #-*-coding:utf-8-*- #编码声明，不要忘记！
@@ -30,3 +33,8 @@ for i in intro_raw:
 print intro #妹子的签名就显示在屏幕上啦
 
 ```
+
+
+## Crawler for picture
+
+check [Crawler_Picture.py](tutorials/Crawler_Picture.py)

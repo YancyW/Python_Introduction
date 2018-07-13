@@ -16,3 +16,7 @@ and some example about how to use python in data collecting and machine learning
 ## [Class](./6_Class.md)
 
 ## [Error](./7_Error.md)
+
+## [Application](./8_Application.md)
+
+## [Question](./9_Question.md)

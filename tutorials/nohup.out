@@ -1,0 +1,6 @@
+"dtkwidget2" can not find qm files
+"deepin-image-viewer" can not find qm files
+Setting file: "/home/yancy/.config/deepin/deepin-image-viewer/config.conf"
+2018-01-27, 22:01:21.441 [Debug  ] [                                                         0] LogFile: "/home/yancy/.cache/deepin/deepin-image-viewer/deepin-image-viewer.log"
+2018-01-27, 22:01:21.441 [Debug  ] [                                                         0] Deepin Image Viewer is defaultImage!
+2018-01-27, 22:01:21.593 [Debug  ] [                                                         0] database is exist!
