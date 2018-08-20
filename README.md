@@ -20,3 +20,9 @@ and some example about how to use python in data collecting and machine learning
 ## [Application](./8_Application.md)
 
 ## [Question](./9_Question.md)
+
+## [Threading](./10_Threading.md)
+
+## [Multiprocessing](./11_Multiprocessing.md)
+
+## [Python Interpreter](./12_Python_Interpreter.md)
