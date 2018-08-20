@@ -9,3 +9,5 @@
 ## [Variable](./2_Basic_Command_4_Variable.md)
 
 ## [Stop](./2_Basic_Command_5_Stop.md)
+
+## [Using Shell Command](2_Basic_Command_6_Shell.md)

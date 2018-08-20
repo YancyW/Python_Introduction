@@ -25,4 +25,6 @@ and some example about how to use python in data collecting and machine learning
 
 ## [Multiprocessing](./11_Multiprocessing.md)
 
-## [Python Interpreter](./12_Python_Interpreter.md)
+## [Speed comparing between Multiprocessing and Threading](./12_Compare_Multiprocessing_Threading.md)
+
+## [Python Interpreter](./13_Python_Interpreter.md)
