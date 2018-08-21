@@ -1,5 +1,6 @@
 #Visualization
 TKinter moduler for generating window by python.
+This is similar as other visualization tools --- add a toolbox and give the trigger.
 
 load tkinter and initialize a default window and active the window
 ```
@@ -59,3 +60,10 @@ button=tk.Button(window,
 	command=user_function # when single_click, this function will be run
 	)
 ```
+## add menubar 
+## add entry 
+## add listbox 
+## add radiobutton 
+## add messagebox 
+
+## change the button position 
